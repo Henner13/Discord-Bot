@@ -1,3 +1,5 @@
+![MimiBot Banner]``
+
 EN-Version
 
 # 🤖 Mimibot - Discord Meme Bot
