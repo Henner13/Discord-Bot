@@ -1,4 +1,4 @@
-![MimiBot Banner]``
+![MimiBot Banner](https://github.com/Henner13/Discord-Bot/blob/main/Discord_meme.png)
 
 EN-Version
 
