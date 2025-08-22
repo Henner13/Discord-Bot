@@ -22,6 +22,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-#  My own token.
-client.run("MTQwODQ3Nzc2OTMxODQwNDE0Ng.G6VGI-.5Sh6YXAFJ00VsnAKNsxcDsrpt1A1j7XcwzPtmk")
+#  You must put your bot token
+client.run("YOUR TOKEN")
+
 
